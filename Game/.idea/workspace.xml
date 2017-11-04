@@ -1,0 +1,973 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2dc18e5b-bf1f-448a-ab72-514981e02ae7" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Running Mexican.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Running Mexican.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="499">
+              <caret line="252" column="0" lean-forward="true" selection-start-line="252" selection-start-column="0" selection-end-line="252" selection-end-column="0" />
+              <folding>
+                <element signature="e#49#62#0" expanded="true" />
+                <element signature="e#1057#1271#0" expanded="false" />
+                <element signature="e#1289#1505#0" expanded="false" />
+                <element signature="e#1541#1632#0" expanded="false" />
+                <element signature="e#1665#1859#0" expanded="false" />
+                <element signature="e#1887#2047#0" expanded="false" />
+                <element signature="e#2067#2573#0" expanded="false" />
+                <element signature="e#2628#3732#0" expanded="false" />
+                <element signature="e#3760#4065#0" expanded="false" />
+                <element signature="e#4091#4395#0" expanded="false" />
+                <element signature="e#4416#4933#0" expanded="false" />
+                <element signature="e#5023#5332#0" expanded="false" />
+                <element signature="e#5495#7047#0" expanded="false" />
+                <element signature="e#7339#7523#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="true">
+        <entry file="file://E:/lessons/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RM.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Downloads/RM.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="935">
+              <caret line="57" column="64" lean-forward="false" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="67" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" column="15" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="252" selection-end-column="0" />
+              <folding>
+                <element signature="e#49#62#0" expanded="true" />
+                <element signature="e#1057#1271#0" expanded="false" />
+                <element signature="e#1541#1632#0" expanded="false" />
+                <element signature="e#1887#2047#0" expanded="false" />
+                <element signature="e#2067#2573#0" expanded="false" />
+                <element signature="e#2628#3732#0" expanded="false" />
+                <element signature="e#3760#4065#0" expanded="false" />
+                <element signature="e#4091#4395#0" expanded="false" />
+                <element signature="e#5023#5332#0" expanded="false" />
+                <element signature="e#5495#7047#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Timer.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Timer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="32" column="13" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="32" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>import</find>
+      <find>co</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SNOW-temp.py" />
+        <option value="$PROJECT_DIR$/1.py" />
+        <option value="$USER_HOME$/Downloads/basicjumping.py" />
+        <option value="$PROJECT_DIR$/basicjumping.py" />
+        <option value="$USER_HOME$/Downloads/RM.py" />
+        <option value="$USER_HOME$/Downloads/playerclass.py" />
+        <option value="$PROJECT_DIR$/еуіе.py" />
+        <option value="$PROJECT_DIR$/lessonOOP.py" />
+        <option value="$PROJECT_DIR$/Test1.py" />
+        <option value="$PROJECT_DIR$/Timer.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/Running Mexican.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1440" />
+    <option name="height" value="836" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Game" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="E:/lessons" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Game" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Game" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration name="Running Mexican" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Game" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Running Mexican.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="Test1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Game" />
+      <option name="SCRIPT_NAME" value="E:\Game\Timer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="Timer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Game" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Timer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="lessonOOP" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Game" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lessonOOP.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Game" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.Running Mexican" />
+      <item index="1" class="java.lang.String" itemvalue="Python.test" />
+      <item index="2" class="java.lang.String" itemvalue="Python.lessonOOP" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Test1" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Timer" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.test" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Timer" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Test1" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Running Mexican" />
+        <item index="4" class="java.lang.String" itemvalue="Python.lessonOOP" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2dc18e5b-bf1f-448a-ab72-514981e02ae7" name="Default" comment="" />
+      <created>1507401877125</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1507401877125</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1440" height="836" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10182584" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19669876" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37964237" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/basicjumping.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Running Mexican.py</url>
+          <line>69</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lessonOOP.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="38" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Running Mexican.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="181" column="6" lean-forward="false" selection-start-line="181" selection-start-column="6" selection-end-line="181" selection-end-column="6" />
+          <folding>
+            <element signature="e#49#62#0" expanded="true" />
+            <element signature="e#1057#1271#0" expanded="false" />
+            <element signature="e#1289#1505#0" expanded="false" />
+            <element signature="e#1541#1632#0" expanded="false" />
+            <element signature="e#1665#1859#0" expanded="false" />
+            <element signature="e#1887#2047#0" expanded="false" />
+            <element signature="e#2067#2573#0" expanded="false" />
+            <element signature="e#2628#3732#0" expanded="false" />
+            <element signature="e#3760#4065#0" expanded="false" />
+            <element signature="e#4091#4395#0" expanded="false" />
+            <element signature="e#4416#4933#0" expanded="false" />
+            <element signature="e#5023#5332#0" expanded="false" />
+            <element signature="e#5495#7047#0" expanded="false" />
+            <element signature="e#7339#7523#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/RM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="57" column="64" lean-forward="false" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="67" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding>
+            <element signature="e#49#62#0" expanded="true" />
+            <element signature="e#1057#1271#0" expanded="false" />
+            <element signature="e#1541#1632#0" expanded="false" />
+            <element signature="e#1887#2047#0" expanded="false" />
+            <element signature="e#2067#2573#0" expanded="false" />
+            <element signature="e#2628#3732#0" expanded="false" />
+            <element signature="e#3760#4065#0" expanded="false" />
+            <element signature="e#4091#4395#0" expanded="false" />
+            <element signature="e#5023#5332#0" expanded="false" />
+            <element signature="e#5495#7047#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessonOOP.py" />
+    <entry file="file://$PROJECT_DIR$/Running Mexican.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3077">
+          <caret line="181" column="6" lean-forward="false" selection-start-line="181" selection-start-column="6" selection-end-line="181" selection-end-column="6" />
+          <folding>
+            <element signature="e#49#62#0" expanded="true" />
+            <element signature="e#1057#1271#0" expanded="false" />
+            <element signature="e#1289#1505#0" expanded="false" />
+            <element signature="e#1541#1632#0" expanded="false" />
+            <element signature="e#1665#1859#0" expanded="false" />
+            <element signature="e#1887#2047#0" expanded="false" />
+            <element signature="e#2067#2573#0" expanded="false" />
+            <element signature="e#2628#3732#0" expanded="false" />
+            <element signature="e#3760#4065#0" expanded="false" />
+            <element signature="e#4091#4395#0" expanded="false" />
+            <element signature="e#4416#4933#0" expanded="false" />
+            <element signature="e#5023#5332#0" expanded="false" />
+            <element signature="e#5495#7047#0" expanded="false" />
+            <element signature="e#7339#7523#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/RM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="57" column="64" lean-forward="false" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="67" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding>
+            <element signature="e#49#62#0" expanded="true" />
+            <element signature="e#1057#1271#0" expanded="false" />
+            <element signature="e#1541#1632#0" expanded="false" />
+            <element signature="e#1887#2047#0" expanded="false" />
+            <element signature="e#2067#2573#0" expanded="false" />
+            <element signature="e#2628#3732#0" expanded="false" />
+            <element signature="e#3760#4065#0" expanded="false" />
+            <element signature="e#4091#4395#0" expanded="false" />
+            <element signature="e#5023#5332#0" expanded="false" />
+            <element signature="e#5495#7047#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Running Mexican.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#49#62#0" expanded="true" />
+            <element signature="e#1057#1271#0" expanded="false" />
+            <element signature="e#1289#1505#0" expanded="false" />
+            <element signature="e#1541#1632#0" expanded="false" />
+            <element signature="e#1665#1859#0" expanded="false" />
+            <element signature="e#1887#2047#0" expanded="false" />
+            <element signature="e#2067#2573#0" expanded="false" />
+            <element signature="e#2628#3732#0" expanded="false" />
+            <element signature="e#3760#4065#0" expanded="false" />
+            <element signature="e#4091#4395#0" expanded="false" />
+            <element signature="e#4416#4933#0" expanded="false" />
+            <element signature="e#5023#5332#0" expanded="false" />
+            <element signature="e#5495#7047#0" expanded="false" />
+            <element signature="e#7339#7523#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/playerclass.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/RM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="57" column="64" lean-forward="false" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="67" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="181" column="7" lean-forward="false" selection-start-line="181" selection-start-column="7" selection-end-line="181" selection-end-column="7" />
+          <folding>
+            <element signature="e#49#62#0" expanded="true" />
+            <element signature="e#1057#1271#0" expanded="false" />
+            <element signature="e#1541#1632#0" expanded="false" />
+            <element signature="e#1887#2047#0" expanded="false" />
+            <element signature="e#2067#2573#0" expanded="false" />
+            <element signature="e#2628#3732#0" expanded="false" />
+            <element signature="e#3760#4065#0" expanded="false" />
+            <element signature="e#4091#4395#0" expanded="false" />
+            <element signature="e#5023#5332#0" expanded="false" />
+            <element signature="e#5495#7047#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17425">
+          <caret line="1025" column="0" lean-forward="false" selection-start-line="1025" selection-start-column="0" selection-end-line="1025" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Running Mexican.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1377">
+          <caret line="81" column="40" lean-forward="false" selection-start-line="81" selection-start-column="4" selection-end-line="81" selection-end-column="40" />
+          <folding>
+            <element signature="e#49#62#0" expanded="true" />
+            <element signature="e#1057#1271#0" expanded="false" />
+            <element signature="e#1289#1505#0" expanded="false" />
+            <element signature="e#1541#1632#0" expanded="false" />
+            <element signature="e#1665#1859#0" expanded="false" />
+            <element signature="e#1887#2047#0" expanded="false" />
+            <element signature="e#2067#2573#0" expanded="false" />
+            <element signature="e#2628#3732#0" expanded="false" />
+            <element signature="e#3760#4065#0" expanded="false" />
+            <element signature="e#4091#4395#0" expanded="false" />
+            <element signature="e#4416#4933#0" expanded="false" />
+            <element signature="e#5023#5332#0" expanded="false" />
+            <element signature="e#5495#7047#0" expanded="false" />
+            <element signature="e#7339#7523#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/playerclass.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basicjumping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="48" column="16" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="68" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/RM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="57" column="64" lean-forward="false" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="67" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="13" lean-forward="true" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+          <folding>
+            <element signature="e#49#62#0" expanded="true" />
+            <element signature="e#1057#1271#0" expanded="false" />
+            <element signature="e#1541#1632#0" expanded="false" />
+            <element signature="e#1887#2047#0" expanded="false" />
+            <element signature="e#2067#2573#0" expanded="false" />
+            <element signature="e#2628#3732#0" expanded="false" />
+            <element signature="e#3760#4065#0" expanded="false" />
+            <element signature="e#4091#4395#0" expanded="false" />
+            <element signature="e#5023#5332#0" expanded="false" />
+            <element signature="e#5495#7047#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Running Mexican.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1377">
+          <caret line="81" column="40" lean-forward="false" selection-start-line="81" selection-start-column="4" selection-end-line="81" selection-end-column="40" />
+          <folding>
+            <element signature="e#49#62#0" expanded="true" />
+            <element signature="e#1057#1271#0" expanded="false" />
+            <element signature="e#1289#1505#0" expanded="false" />
+            <element signature="e#1541#1632#0" expanded="false" />
+            <element signature="e#1665#1859#0" expanded="false" />
+            <element signature="e#1887#2047#0" expanded="false" />
+            <element signature="e#2067#2573#0" expanded="false" />
+            <element signature="e#2628#3732#0" expanded="false" />
+            <element signature="e#3760#4065#0" expanded="false" />
+            <element signature="e#4091#4395#0" expanded="false" />
+            <element signature="e#4416#4933#0" expanded="false" />
+            <element signature="e#5023#5332#0" expanded="false" />
+            <element signature="e#5495#7047#0" expanded="false" />
+            <element signature="e#7339#7523#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/playerclass.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/RM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="57" column="64" lean-forward="false" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="67" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basicjumping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="48" column="16" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="68" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1700">
+          <caret line="100" column="48" lean-forward="false" selection-start-line="100" selection-start-column="48" selection-end-line="100" selection-end-column="48" />
+          <folding>
+            <element signature="e#49#62#0" expanded="true" />
+            <element signature="e#1057#1271#0" expanded="false" />
+            <element signature="e#1541#1632#0" expanded="false" />
+            <element signature="e#1887#2047#0" expanded="false" />
+            <element signature="e#2067#2573#0" expanded="false" />
+            <element signature="e#2628#3732#0" expanded="false" />
+            <element signature="e#3760#4065#0" expanded="false" />
+            <element signature="e#4091#4395#0" expanded="false" />
+            <element signature="e#5023#5332#0" expanded="false" />
+            <element signature="e#5495#7047#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Running Mexican.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#49#62#0" expanded="true" />
+            <element signature="e#1057#1271#0" expanded="false" />
+            <element signature="e#1289#1505#0" expanded="false" />
+            <element signature="e#1541#1632#0" expanded="false" />
+            <element signature="e#1665#1859#0" expanded="false" />
+            <element signature="e#1887#2047#0" expanded="false" />
+            <element signature="e#2067#2573#0" expanded="false" />
+            <element signature="e#2628#3732#0" expanded="false" />
+            <element signature="e#3760#4065#0" expanded="false" />
+            <element signature="e#4091#4395#0" expanded="false" />
+            <element signature="e#4416#4933#0" expanded="false" />
+            <element signature="e#5023#5332#0" expanded="false" />
+            <element signature="e#5495#7047#0" expanded="false" />
+            <element signature="e#7339#7523#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/RM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="57" column="64" lean-forward="false" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="67" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basicjumping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Running Mexican.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#49#62#0" expanded="true" />
+            <element signature="e#1057#1271#0" expanded="false" />
+            <element signature="e#1289#1505#0" expanded="false" />
+            <element signature="e#1541#1632#0" expanded="false" />
+            <element signature="e#1665#1859#0" expanded="false" />
+            <element signature="e#1887#2047#0" expanded="false" />
+            <element signature="e#2067#2573#0" expanded="false" />
+            <element signature="e#2628#3732#0" expanded="false" />
+            <element signature="e#3760#4065#0" expanded="false" />
+            <element signature="e#4091#4395#0" expanded="false" />
+            <element signature="e#4416#4933#0" expanded="false" />
+            <element signature="e#5023#5332#0" expanded="false" />
+            <element signature="e#5495#7047#0" expanded="false" />
+            <element signature="e#7339#7523#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/RM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="57" column="64" lean-forward="true" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="67" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basicjumping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="55" column="0" lean-forward="true" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Running Mexican.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="37" column="9" lean-forward="false" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
+          <folding>
+            <element signature="e#49#62#0" expanded="true" />
+            <element signature="e#1057#1271#0" expanded="false" />
+            <element signature="e#1289#1505#0" expanded="false" />
+            <element signature="e#1541#1632#0" expanded="false" />
+            <element signature="e#1665#1859#0" expanded="false" />
+            <element signature="e#1887#2047#0" expanded="false" />
+            <element signature="e#2067#2573#0" expanded="false" />
+            <element signature="e#2628#3732#0" expanded="false" />
+            <element signature="e#3760#4065#0" expanded="false" />
+            <element signature="e#4091#4395#0" expanded="false" />
+            <element signature="e#4416#4933#0" expanded="false" />
+            <element signature="e#5023#5332#0" expanded="false" />
+            <element signature="e#5495#7047#0" expanded="false" />
+            <element signature="e#7339#7523#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basicjumping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="53" column="8" lean-forward="true" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/RM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Running Mexican.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="41" column="39" lean-forward="false" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="39" />
+          <folding>
+            <element signature="e#49#62#0" expanded="true" />
+            <element signature="e#1057#1271#0" expanded="false" />
+            <element signature="e#1289#1505#0" expanded="false" />
+            <element signature="e#1541#1632#0" expanded="false" />
+            <element signature="e#1665#1859#0" expanded="false" />
+            <element signature="e#1887#2047#0" expanded="false" />
+            <element signature="e#2067#2573#0" expanded="false" />
+            <element signature="e#2628#3732#0" expanded="false" />
+            <element signature="e#3760#4065#0" expanded="false" />
+            <element signature="e#4091#4395#0" expanded="false" />
+            <element signature="e#4416#4933#0" expanded="false" />
+            <element signature="e#5023#5332#0" expanded="false" />
+            <element signature="e#5495#7047#0" expanded="false" />
+            <element signature="e#7339#7523#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/RM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="56" column="0" lean-forward="true" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Skype/My Skype Received Files/ball2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basicjumping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="33" column="23" lean-forward="true" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Skype/My Skype Received Files/ball2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/basicjumping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="38" column="21" lean-forward="true" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python27/site-packages/pygame/pkgdata.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="1598" column="0" lean-forward="false" selection-start-line="1598" selection-start-column="0" selection-end-line="1598" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/playerclass.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basicjumping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="48" column="16" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="68" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Skype/My Skype Received Files/game(1).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/snow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessonOOP.py" />
+    <entry file="file://$USER_HOME$/Downloads/RM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="57" column="64" lean-forward="false" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="67" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Timer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="13" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="32" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="15" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="252" selection-end-column="0" />
+          <folding>
+            <element signature="e#49#62#0" expanded="true" />
+            <element signature="e#1057#1271#0" expanded="false" />
+            <element signature="e#1541#1632#0" expanded="false" />
+            <element signature="e#1887#2047#0" expanded="false" />
+            <element signature="e#2067#2573#0" expanded="false" />
+            <element signature="e#2628#3732#0" expanded="false" />
+            <element signature="e#3760#4065#0" expanded="false" />
+            <element signature="e#4091#4395#0" expanded="false" />
+            <element signature="e#5023#5332#0" expanded="false" />
+            <element signature="e#5495#7047#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Running Mexican.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="252" column="0" lean-forward="true" selection-start-line="252" selection-start-column="0" selection-end-line="252" selection-end-column="0" />
+          <folding>
+            <element signature="e#49#62#0" expanded="true" />
+            <element signature="e#1057#1271#0" expanded="false" />
+            <element signature="e#1289#1505#0" expanded="false" />
+            <element signature="e#1541#1632#0" expanded="false" />
+            <element signature="e#1665#1859#0" expanded="false" />
+            <element signature="e#1887#2047#0" expanded="false" />
+            <element signature="e#2067#2573#0" expanded="false" />
+            <element signature="e#2628#3732#0" expanded="false" />
+            <element signature="e#3760#4065#0" expanded="false" />
+            <element signature="e#4091#4395#0" expanded="false" />
+            <element signature="e#4416#4933#0" expanded="false" />
+            <element signature="e#5023#5332#0" expanded="false" />
+            <element signature="e#5495#7047#0" expanded="false" />
+            <element signature="e#7339#7523#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/lessons/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,62 @@
+{% extends "bootstrap/base.html" %}
+{% block content %}
+<html>
+<head>
+    <title>Taras's Skills</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Bootstrap -->
+    <link href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Blog Template for Bootstrap</title>
+    <!-- Bootstrap core CSS -->
+    <link href="/static/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom styles for this template -->
+    <link rel="stylesheet" href="/static/style.css">
+    <link href="/static/blog.css" rel="stylesheet">
+</head>
+<body>
+
+<header>
+    <div class="blog-masthead">
+        <div class="container">
+            <nav class="nav">
+                <a class="nav-link" href="{{url_for('about')}}">About me</a>
+                <a class="nav-link" href="{{url_for('skills')}}">IT Skills</a>
+                <a class="nav-link" href="{{url_for('pygame')}}">PyGame</a>
+                <a class="nav-link" href="{{url_for('addcontact')}}">Add your contact</a>
+                <a class="nav-link" href="{{url_for('mycontacts')}}">My contacts</a>
+            </nav>
+        </div>
+    </div>
+</header>
+<form name="addForm" id="addForm" method="POST" action="{{ url_for('addcontactpost') }}"  novalidate>
+    <div class="form-group">
+        <label>Name</label>
+        <input type="text" class="form-control" name="name" id="name" placeholder="Please enter your name">
+    </div>
+    <div class="form-group">
+        <label>Surname</label>
+        <input type="text" class="form-control" name="surname" id="surname" placeholder="Please enter your surname">
+    </div>
+    <div class="form-group">
+        <label>Email</label>
+        <input type="email" class="form-control" name="email" id="email" placeholder="Please enter your email">
+    </div>
+    <div class="form-group">
+        <label>Telephone</label>
+        <input type="number" class="form-control" name="phone" id="phone" placeholder="Please enter your telephone number">
+    </div>
+    <div class="form-group">
+        <label>Your comments</label>
+        <textarea rows="5" class="form-control" name="content" id="content" ></textarea>
+    </div>
+    <button type="submit" class="btn btn-primary" id="sendMessageButton">Submit</button>
+</form>
+</body>
+</html>
+{% endblock %}

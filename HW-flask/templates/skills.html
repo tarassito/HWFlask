@@ -1,0 +1,114 @@
+{% extends "bootstrap/base.html" %}
+{% block content %}
+<head>
+    <title>Taras's Skills</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Bootstrap -->
+    <link href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>Blog Template for Bootstrap</title>
+    <!-- Bootstrap core CSS -->
+    <link href="/static/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+
+    <link rel="stylesheet" href="/static/style.css">
+    <link href="/static/blog.css" rel="stylesheet">
+</head>
+<body>
+
+
+<header>
+    <div class="blog-masthead">
+        <div class="container">
+            <nav class="nav">
+                <a class="nav-link" href="{{url_for('about')}}">About me</a>
+                <a class="nav-link" href="{{url_for('skills')}}">IT Skills</a>
+                <a class="nav-link" href="{{url_for('pygame')}}">PyGame</a>
+                <a class="nav-link" href="{{url_for('addcontact')}}">Add your contact</a>
+                <a class="nav-link" href="{{url_for('mycontacts')}}">My contacts</a>
+            </nav>
+        </div>
+    </div>
+</header>
+
+<div id="accordion" role="tablist">
+    <div class="card">
+        <div class="card-header" role="tab" id="headingOne">
+            <h5 class="mb-0">
+                <a data-toggle="collapse" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne"
+                   class="restyle">
+                    Softserve Academy
+                </a>
+            </h5>
+        </div>
+        <div id="exampleAccordion" data-children=".item">
+            <div class="item">
+                <a class="restyle" data-toggle="collapse" data-parent="#exampleAccordion" href="#exampleAccordion1"
+                   aria-expanded="false" aria-controls="exampleAccordion1">
+                    HTML5/ CSS3/ JavaScript Fundamentals
+                </a>
+                <div id="exampleAccordion1" class="collapse" role="tabpanel">
+                    <p class="mb-3">
+                    01. Building the User Interface by Using HTML5: Text, Graphics, and Media<br>
+                    02. Bulding the User Interface by Using HTML5: Organization, Input, Validation.<br>
+                    03. Building the User Interface by Using HTML5: Organization, Input, and Validation<br>
+                    04. Understanding CSS Essentials: Layouts, Managing Text Flow, Managing the Graphical
+                        Interface<br>
+                    05. Understanding CSS Essentials: Content Flow, Positioning, and Styling<br>
+                    06. Understanding JavaScript and Coding Essentials<br>
+                    07. Using objects in JavaScript. Accessing DOM in JavaScript<br>
+                    08. DOM Manipulation and jQuery<br>
+                    09. Making Ajax Queries<br>
+                    10. Twitter BootStrap<br>
+                    11. Introduction to Node.JS<br>
+                    </p>
+                </div>
+            </div>
+            <div class="item">
+                <a class="restyle" data-toggle="collapse" data-parent="#exampleAccordion" href="#exampleAccordion2"
+                   aria-expanded="false" aria-controls="exampleAccordion2">
+                    Python Core
+                </a>
+                <div id="exampleAccordion2" class="collapse" role="tabpanel">
+                    <p class="mb-3">
+                        01. Introduction to Programming with Python<br>
+                        02. Git<br>
+                        03. Built-in Types<br>
+                        04. Loops<br>
+                        05. Function<br>
+                        06. Python OOP<br>
+                        07. Flask<br>
+                        08. Decorators and Gerators<br>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="card">
+        <div class="card-header" role="tab" id="headingTwo">
+            <h5 class="mb-0">
+                <a class="restyle" class="collapsed" data-toggle="collapse" href="#collapseTwo" aria-expanded="false"
+                   aria-controls="collapseTwo">
+                    Online courses
+                </a>
+            </h5>
+        </div>
+        <div id="collapseTwo" class="collapse" role="tabpanel" aria-labelledby="headingTwo" data-parent="#accordion">
+            <div class="card-body">
+                <li>Codeacademy: JavaScript courses</li>
+                <li> freecodecamp.org : HTML and CSS, Basic JavaScript</li>
+                <li> http://flukeout.github.io/: CSS learning</li>
+                <li> http://www.flexboxdefense.com/ - A game for learning CSS flexbox</li>
+            </div>
+        </div>
+    </div>
+</div>
+
+</body>
+{% endblock %}

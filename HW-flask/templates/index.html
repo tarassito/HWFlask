@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Main Page</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+<div id="main">
+<a href="{{url_for('about')}}">About Me</a>
+<a href="{{url_for('skills')}}">IT Skills</a>
+<a href="{{url_for('pygame')}}">My First PyGame</a>
+    </div>
+</body>
+</html>

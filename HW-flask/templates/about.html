@@ -1,0 +1,58 @@
+{% extends "bootstrap/base.html" %}
+{% block title %}About me{% endblock %}
+{% block styles %}
+<head>
+    <title>About me</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap -->
+    <link href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Blog Template for Bootstrap</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="/static/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+
+    <link rel="stylesheet" href="/static/style.css">
+    <link href="/static/blog.css" rel="stylesheet">
+</head>
+
+{% endblock %}
+{% block content %}
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Page About Me</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+<div class="blog-masthead">
+    <div class="container">
+        <nav class="nav">
+            <a class="nav-link" href="{{url_for('about')}}">About me</a>
+            <a class="nav-link" href="{{url_for('skills')}}">IT Skills</a>
+            <a class="nav-link" href="{{url_for('pygame')}}">PyGame</a>
+            <a class="nav-link" href="{{url_for('addcontact')}}">Add your contact</a>
+            <a class="nav-link" href="{{url_for('mycontacts')}}">My contacts</a>
+        </nav>
+    </div>
+</div>
+<div>
+<img id="aboutme-pic" src="static/taras-struk-photo.jpg" alt="Taras Struk picture">
+</div>
+<p> Hello, my name is Taras Struk. I graduated a Master Program in "Economics. Strategy of Innovations" in 2011. Since
+    then, I have created several projects. But now I decide to change my style of life and learn to creat software. I
+    want to get
+    job in a big IT company. And that's make me feel very excited. On this site you will find my IT skills that I've
+    already learned and my first game created on Python.</p>
+
+</body>
+</html>
+{% endblock %}
